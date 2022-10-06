@@ -3,6 +3,11 @@ Ensure current directory is set to app
 ```
 cd hello-world
 ```
+I prefer using scss. We can decide on that later though
+## Install
+```
+npm install -D sass-loader sass
+```
 ## Project setup / Install dependencies
 ```
 npm install
