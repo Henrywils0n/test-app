@@ -1,8 +1,15 @@
-# hello-world
-
-## Project setup
+# test-app
+Ensure current directory is set to app 
+```
+cd hello-world
+```
+## Project setup / Install dependencies
 ```
 npm install
+```
+I personally prefer SCSS, it is much easier to use. We can decide on this later though
+```
+npm install -D sass-loader sass`
 ```
 
 ### Compiles and hot-reloads for development
@@ -19,6 +26,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
